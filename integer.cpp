@@ -17,12 +17,12 @@ int main() {
     // process - check if int is positive, negative or neutral.
     if (integer > 0) {
         // output - displaying result
-        std::cout << integer << "is positive.\n";
+        std::cout << integer << " is positive.\n";
     } else if (integer < 0) {
         // output - displaying result
-        std::cout << integer << "is negative.\n";
+        std::cout << integer << " is negative.\n";
     } else {
         // output - displaying result
-        std::cout << integer << "is neutral.\n";
+        std::cout << integer << " is neutral.\n";
     }
 }
